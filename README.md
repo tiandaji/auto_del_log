@@ -18,3 +18,4 @@ gcc url_recorder.c -lpcap -o url_recorder
 命令行参数是网卡名字，我这里是eth0，需要root权限
 ./url_recorder eth0
 </code></pre>
+
