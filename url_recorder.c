@@ -8,7 +8,7 @@
 #define PROMISC 1
 #define SNAPLEN 1600
 
-char log_file[] = "/var/log/url_record.txt";
+char log_file[] = "/root/url_recorder/url_record.txt";
 char pidfile[] = "/var/run/url_recoder";
 FILE* log_fp;
 
