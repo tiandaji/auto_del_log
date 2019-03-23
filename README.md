@@ -1,7 +1,5 @@
 # url_recorder
-to record url on a VPS etc.
 ===========
-
 把HTTP请求的URL全部记录下来，我是在vps上用的~~
 日志记录在 “/var/log/url_record.txt”
 
