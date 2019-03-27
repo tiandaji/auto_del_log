@@ -4,5 +4,6 @@
 
 <pre><code>
 使用crontab -e进行定时设置；
+ex. 59 23 * * * bash /root/auto_del_log.sh
 </code></pre>
 
